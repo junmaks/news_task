@@ -1,0 +1,6 @@
+{
+    "development": {
+        "config_id": "development",
+        "baseUrl": "http://localhost:5050"
+    }
+}
