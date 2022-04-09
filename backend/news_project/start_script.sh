@@ -14,4 +14,5 @@ export PGPORT
 export PORT
 export HOST
 
+npm install
 npm run dev
